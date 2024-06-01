@@ -1,5 +1,9 @@
 import React from "react";
 import "./Home.css";
+import { FaFacebookF } from "react-icons/fa6";
+import { FiTwitter } from "react-icons/fi";
+import { FaGithub } from "react-icons/fa6";
+
 function Home() {
   return (
     <>
@@ -14,9 +18,22 @@ function Home() {
             animations.
           </p>
           <div className="iconBox">
-            <div className="icons">f</div>
-            <div className="icons">T</div>
-            <div className="icons">Y</div>
+            <div className="icons">
+              <a href="">
+                <FaFacebookF />
+              </a>
+            </div>
+            <div className="icons">
+              <a href="">
+                {" "}
+                <FiTwitter />
+              </a>
+            </div>
+            <div className="icons">
+              <a href="">
+                <FaGithub />
+              </a>
+            </div>
           </div>
         </section>
       </div>
