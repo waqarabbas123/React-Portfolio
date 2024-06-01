@@ -10,10 +10,9 @@ function Navbar() {
             <img src={profileImage} alt="profileImage"/>
           </div>
         </div>
-
         <ul>
           <li>
-            <a href="#">Home</a>
+            <a href="#"></a>
           </li>
           <li>
             <a href="#">About</a>
@@ -38,5 +37,6 @@ function Navbar() {
     </div>
   );
 }
+import Home from "../Home/Home";
 
 export default Navbar;

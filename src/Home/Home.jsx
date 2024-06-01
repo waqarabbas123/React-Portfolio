@@ -19,18 +19,17 @@ function Home() {
           </p>
           <div className="iconBox">
             <div className="icons">
-              <a href="">
+              <a href="https://www.facebook.com/husune.waqar/" target="_blank">
                 <FaFacebookF />
               </a>
             </div>
             <div className="icons">
-              <a href="">
-                {" "}
+              <a href="https:www.twitter.com/@waqarabbas101/" target="_blank">
                 <FiTwitter />
               </a>
             </div>
             <div className="icons">
-              <a href="">
+              <a href="https://github.com/waqarabbas123" target="_blank">
                 <FaGithub />
               </a>
             </div>

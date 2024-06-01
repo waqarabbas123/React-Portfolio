@@ -1,9 +1,13 @@
 .navbar {
-    width: 280px;
+    width: 22%;
     background-color: #18191c;
     height: 100vh;
     border-right: 1px solid rgb(158, 157, 157);
-    position: sticky;
+    position: fixed;
+    top :0px;
+    left: 0px;
+    /* display: none; */
+
   }
   .inner {
     display: flex;
