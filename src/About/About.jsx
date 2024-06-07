@@ -58,6 +58,9 @@ function About() {
             <button className="Btn1">Download cv</button>
           </div>
         </div>
+        <div className="box">
+          
+        </div>
       </div>
     </>
   );
