@@ -8,4 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 Portfolio Website
-Using the react js i can make a portfolio website for a web developers .
+Using the react js i can make a portfolio website for a web developers
