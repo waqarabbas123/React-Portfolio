@@ -8,4 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh.
 portfoliob website using react js and tailwind css.
 
-React portfolio website for web developers.
+React portfolio website for web developers
